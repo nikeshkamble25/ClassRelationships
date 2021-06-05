@@ -1,0 +1,16 @@
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\bin\Debug\net5.0\ClassRelationships.exe
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\bin\Debug\net5.0\ClassRelationships.deps.json
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\bin\Debug\net5.0\ClassRelationships.runtimeconfig.json
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\bin\Debug\net5.0\ClassRelationships.runtimeconfig.dev.json
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\bin\Debug\net5.0\ClassRelationships.dll
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\bin\Debug\net5.0\ref\ClassRelationships.dll
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\bin\Debug\net5.0\ClassRelationships.pdb
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\obj\Debug\net5.0\ClassRelationships.csprojAssemblyReference.cache
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\obj\Debug\net5.0\ClassRelationships.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\obj\Debug\net5.0\ClassRelationships.AssemblyInfoInputs.cache
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\obj\Debug\net5.0\ClassRelationships.AssemblyInfo.cs
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\obj\Debug\net5.0\ClassRelationships.csproj.CoreCompileInputs.cache
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\obj\Debug\net5.0\ClassRelationships.dll
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\obj\Debug\net5.0\ref\ClassRelationships.dll
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\obj\Debug\net5.0\ClassRelationships.pdb
+C:\Users\nikes\source\repos\ClassRelationships\ClassRelationships\obj\Debug\net5.0\ClassRelationships.genruntimeconfig.cache
